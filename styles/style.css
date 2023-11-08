@@ -17,11 +17,6 @@ html {
   font-size: 18px;
   background-color: #1b1919;
   display: flex;
-  justify-content: space-between;
-  padding-block-start: 133px;
-  padding-block-end: 133px;
-  padding-inline-start: 30px;
-  padding-inline-end: 30px;
 }
 
 h1,
@@ -47,6 +42,7 @@ ol {
   display: flex;
   inline-size: 1140px;
   gap: 30px;
+  margin: auto;
 }
 
 .result {
