@@ -202,7 +202,7 @@ input[type="checkbox"]:active + .search-form__pseudo-checkbox::before {
 }
 
 .title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-size: 75px;
   font-style: normal;
   font-weight: 700;
@@ -266,7 +266,7 @@ input[type="checkbox"]:active + .search-form__pseudo-checkbox::before {
 }
 
 .content__video-card-title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-size: 30px;
   line-height: 100%;
   text-transform: uppercase;
